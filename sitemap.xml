@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.splice.cl/</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/nosotros</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicios</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/ley-de-ductos</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/ingenieria</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/construccion_redes</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/operacion_domiciliaria</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/mantenimiento_redes</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/outsourcing</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/servicio/gestion-inmobiliaria</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/clientes</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.splice.cl/contacto</loc>
+  <lastmod>2021-05-06T07:59:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
